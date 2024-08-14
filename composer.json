@@ -1,0 +1,14 @@
+{
+    "name": "ustasnov/intro2",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "require-dev": {
+        "psr/log": "3.x-dev"
+    },
+    "authors": [
+        {
+            "name": "ustasnov"
+        }
+    ],
+    "minimum-stability": "dev"
+}
